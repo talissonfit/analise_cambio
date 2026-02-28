@@ -37,7 +37,7 @@ try:
         plt.xlabel("Data")
         plt.ylabel("Preço (R$)")
         
-        # Salva a imagem para o seu Portfólio no GitHub
+        # Salva a imagem para o Portfólio no GitHub
         plt.savefig("variacao_cambio.png")
         print("\n✅ Sucesso! O gráfico 'variacao_cambio.png' foi salvo na pasta.")
         plt.show()
